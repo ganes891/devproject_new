@@ -1,0 +1,15 @@
+==============================
+ Course content summary
+
+    Managing users and groups, files, and file permissions
+    Updating software packages with yum
+    Managing and troubleshooting systemd services during the boot process
+    Network configuration and basic troubleshooting
+    Managing local storage and creating and using file systems
+    Firewall management with firewalld
+    Managing Kernel-based Virtual Machines (KVMs)
+    Automating installation of Red Hat Enterprise Linux using Kickstart
+
+
+
+
